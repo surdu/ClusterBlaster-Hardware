@@ -2338,7 +2338,7 @@
     (stroke (width 0.092604) (type solid)) (layer "F.Mask") (tstamp ff1d8770-ea85-40f3-b47a-8c65bc8dbbc1))
   (gr_rect (start 117.475 45.72) (end 182.88 95.885)
     (stroke (width 0.15) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 078f6dfa-c08e-413f-8fa5-2307d9131ce3))
-  (gr_text "Rev 1" (at 118.745 94.615) (layer "F.SilkS") (tstamp 2c405434-6bfa-431b-8368-6f8bd6adc334)
+  (gr_text "Rev: 1" (at 118.745 94.615) (layer "F.SilkS") (tstamp 2c405434-6bfa-431b-8368-6f8bd6adc334)
     (effects (font (size 1 1) (thickness 0.25) bold) (justify left bottom))
   )
 
